@@ -1,8 +1,8 @@
 ## 6.S198 Assignment 0
 
-Xuan Jie (James) Tea
-Massachusetts Institute of Technology
-jamestea@mit.edu
+Xuan Jie (James) Tea <br>
+Massachusetts Institute of Technology <br>
+jamestea@mit.edu <br>
 
 ### Markdown
 
