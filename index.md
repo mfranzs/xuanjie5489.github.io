@@ -25,6 +25,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+[Assignment 1] (https://xuanjie5489.github.io/6.S198-Assignment-0)
+
 
 ### Support or Contact
 
